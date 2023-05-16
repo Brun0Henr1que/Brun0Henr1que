@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brun0Henr1que
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 👀 I’m interested in backend development 
+- 🌱 I’m a Computer Science student
 
 
 <!---
